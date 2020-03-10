@@ -1,1 +1,1 @@
-# Coursera-Capstone-Project
+# Simple-Machine-Learning-Project
